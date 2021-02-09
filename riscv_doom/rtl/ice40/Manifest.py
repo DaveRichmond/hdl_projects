@@ -1,0 +1,15 @@
+files = [
+    "sysmgr.v",
+    "prims.v",
+    "ice40_oserdes.v",
+    "ice40_iserdes.v",
+    "ice40_serdes_sync.v",
+    "ice40_serdes_crg.v",
+    "ice40_serdes_dff.v",
+    "ice40_rgb_wb.v",
+    "ice40_spram_gen.v",
+    "ice40_spram_wb.v",
+    "ice40_ebr.v",
+    "qspi_phy_ice40_4x.v",
+    "qspi_phy_4x.v",
+]
